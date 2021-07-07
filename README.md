@@ -24,7 +24,6 @@ If you're having any kind of trouble, please feel free to contact me via [email]
 ## Acknowledgments
 * [Youjinp](https://github.com/youjinp)
 
-## Screenshots:
-
+## Screenshot
 ![Screenshot](Screen 1.png)
 
