@@ -27,7 +27,8 @@ Aaron Owusu
 If you're having any kind of trouble, please feel free to contact me via [email](mailto:aaronoseiowusu@outlook.com).
 
 ## Acknowledgments
-* [Youjinp](https://github.com/youjinp)
+
+* [Youjinp](https://github.com/youjinp) - (CurrencyTextField.swift)
 
 ## Screenshot
 ![Screenshot](Screen1.png)
