@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/34800051/124772195-b6e94880-df33-11eb-
 ## Installing and Running the program
 
 * Download and extract the ZIP file from the [repository](https://github.com/aaronowusu/Position-Size-Calculator.git)
-* Open **Position Size Calculator.xcodeproj** using Xcode
+* Open **Position Size Calculator.xcodeproj** with Xcode 10 or later
 * Run the app on an iOS simulator or a trusted device that is connected to your Mac
 
 
