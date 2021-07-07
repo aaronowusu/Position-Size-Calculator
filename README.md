@@ -25,5 +25,5 @@ If you're having any kind of trouble, please feel free to contact me via [email]
 * [Youjinp](https://github.com/youjinp)
 
 ## Screenshot
-![Screenshot](Screen 1.png)
+![Screenshot](Screen1.png)
 
