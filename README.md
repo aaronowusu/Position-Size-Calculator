@@ -3,6 +3,11 @@
 An iOS app designed to help forex traders find a suitable position size per trade based on the currency pair, risk percentage, and stop loss. 
 
 
+
+https://user-images.githubusercontent.com/34800051/124772195-b6e94880-df33-11eb-8ece-fb7cdc343e27.mp4
+
+
+
 ## Requirements
 * iOS 13+
 * Xcode 10+
@@ -24,8 +29,6 @@ If you're having any kind of trouble, please feel free to contact me via [email]
 ## Acknowledgments
 * [Youjinp](https://github.com/youjinp)
 
-## Screenshots
-![Screenshot](Screen1.png)
-![Screenshot](Screen2.png)
-![Screenshot](Screen3.png)
+## Screenshot
+![Screenshot](Screen 1.png)
 
